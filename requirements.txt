@@ -4,3 +4,4 @@ ipykernel
 scikit-learn
 Flask
 Pillow
+gunicorn
