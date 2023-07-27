@@ -1,0 +1,6 @@
+matplotlib
+tensorflow
+ipykernel
+scikit-learn
+Flask
+Pillow
