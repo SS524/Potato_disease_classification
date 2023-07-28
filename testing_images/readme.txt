@@ -1,1 +1,0 @@
-this folder is used to save the uploaded image
